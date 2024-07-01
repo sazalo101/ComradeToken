@@ -14,5 +14,16 @@
   "type": "module",
   "workspaces": [
     "src/comrade_token_frontend"
-  ]
+  ],
+  "dependencies": {
+    "@dfinity/auth-client": "^1.4.0",
+    "@dfinity/identity": "^1.4.0",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/icons-material": "^5.15.20",
+    "@mui/material": "^5.15.20",
+    "framer-motion": "^11.2.12",
+    "ic-use-internet-identity": "^0.0.10",
+    "react-spring": "^9.7.3"
+  }
 }
