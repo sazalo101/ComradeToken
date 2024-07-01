@@ -4,6 +4,7 @@
 cd comrade_token/
 npm install @dfinity/auth-client @dfinity/identity
 npm install @mui/material @emotion/react @emotion/styled @mui/icons-material.
+npm install framer-motion
 
 
 ```
