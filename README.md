@@ -70,3 +70,4 @@ If you are hosting frontend code somewhere without using DFX, you may need to ma
 # ComradeToken
 # ComradeToken
 # ComradeToken2
+# ComradeToken
